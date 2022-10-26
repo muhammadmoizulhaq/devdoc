@@ -6,7 +6,7 @@ main:
     url: https://muhammadmoizulhaq.github.io/devdocs/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "Categories"
+    url: https://muhammadmoizulhaq.github.io/devdocs/categories/
   # - title: "Sitemap"
   #   url: /sitemap/
