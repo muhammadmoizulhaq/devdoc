@@ -40,3 +40,11 @@ This is your information deck where we will learn and teach togather.
     * **Better For Flow** It can be complicated to visualize "game flow" in C++, so it is often better to implement that in Blueprints (or in custom systems like Behavior Trees that are designed for this). Delay and async nodes make it much easier to follow flow than using C++ delegates.
     * **Flexible Editing** Designers and artists without specific technical training can create and edit Blueprints, which makes Blueprints ideal for assets that need to be modified by more than just engineers.
     * **Easier Data Usage** Because storing data inside Blueprint classes is much simpler and safer than inside C++ classes; Blueprints are suitable for classes that closely mix Data and Logic.
+
+<script src="https://utteranc.es/client.js"
+    repo="muhammadmoizulhaq/devdoc"
+    issue-term="pathname"
+    theme="github-dark"
+    crossorigin="anonymous"
+    async>
+</script>
