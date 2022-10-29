@@ -1,13 +1,13 @@
 ---
-title: Welcome to the devdocs
+title: BP vs C++ Unreal Engine
 date: 2022-10-22 03:15:00 -500
-categories: [devdocs, welcome]
+categories: [devdoc, welcome]
 tags: [welcome, info, development, gameplay, programming]
 ---
 
 This is your information deck where we will learn and teach togather.
 
-![Unreal Engine Welcome](/assets/images/UE_Welcome_blog.jpg "Unreal Engine Welcome")
+![Unreal Engine Welcome](/assets/images/UE_Welcome_blog.jpg)
 
 ## **Some Information about Unreal Engine**
 * Blueprints
