@@ -35,6 +35,8 @@ tags: [development, gameplay, programming, documentation, unreal engine, c++, bl
     * **Flexible Editing** Designers and artists without specific technical training can create and edit Blueprints, which makes Blueprints ideal for assets that need to be modified by more than just engineers.
     * **Easier Data Usage** Because storing data inside Blueprint classes is much simpler and safer than inside C++ classes; Blueprints are suitable for classes that closely mix Data and Logic.
 
+> **References:** https://docs.unrealengine.com/4.27/en-US/Resources/SampleGames/ARPG/BalancingBlueprintAndCPP/
+
 <script src="https://utteranc.es/client.js"
     repo="muhammadmoizulhaq/devdoc"
     issue-term="pathname"
