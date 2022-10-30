@@ -81,7 +81,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "moiz_ul_haq"
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -112,13 +112,13 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:moizulhaq914@gmail.com"
+      url: "mailto:moizulhaq914+2468@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://muhammadmoizulhaq.github.io/"
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/moiz_ul_haq"
+    #  icon: "fab fa-fw fa-twitter-square"
+    #  url: "https://twitter.com/moiz_ul_haq"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/muhammadmoizulhaq/"
@@ -132,9 +132,9 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/moiz_ul_haq"
+    #- label: "Twitter"
+    #  icon: "fab fa-fw fa-twitter-square"
+    #  url: "https://twitter.com/moiz_ul_haq"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/muhammadmoizulhaq/"
