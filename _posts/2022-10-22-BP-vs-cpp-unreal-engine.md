@@ -1,17 +1,11 @@
 ---
 title: BP vs C++ Unreal Engine
 date: 2022-10-22 03:15:00 -500
-categories: [devdoc, welcome]
-tags: [welcome, info, development, gameplay, programming]
+categories: [devdoc, comparison]
+tags: [development, gameplay, programming, documentation, unreal engine, c++, blueprint, cplusplus]
 ---
 
-This is your information deck where we will learn and teach togather.
-
-![Unreal Engine Welcome](/assets/images/UE_Welcome_blog.jpg)
-
-## **Some Information about Unreal Engine**
-* Blueprints
-* C++
+## **Comparison** b/w Blueprints and C++
 
 | Blueprints      | C plus plus     |
 |-----------------|-----------------|
